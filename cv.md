@@ -36,7 +36,6 @@ function even_or_odd(number) {
   };
 }
 ```
-
 ---------------------------
 
 ### Education
@@ -45,8 +44,9 @@ function even_or_odd(number) {
 
 * 2010-2012, Upgrade training course in Practice and Theory of Translation, English (M. Akmullah Bashkir State Pedagogical University)
 
---------------------------
+* 2020, freecodecamp JS course (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), HTML course (https://ru.hexlet.io/courses/layout-designer-basics), CSS course (https://ru.hexlet.io/courses/css-content)
 
+--------------------------
 
 ### Languages
 

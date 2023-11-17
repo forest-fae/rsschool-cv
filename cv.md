@@ -37,3 +37,22 @@ function even_or_odd(number) {
 }
 ```
 ---------------------------
+
+### Education
+
+* 2008-2012, Bachelor of English philology (Institute of Philology and Intercultural Communication, M. Akmullah Bashkir State Pedagogical University)
+
+* 2010-2012, Upgrade training course in Practice and Theory of Translation, English (M. Akmullah Bashkir State Pedagogical University)
+
+* 2022, freecodecamp JS course (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), HTML course (https://ru.hexlet.io/courses/layout-designer-basics), CSS course (https://ru.hexlet.io/courses/css-content)
+
+--------------------------
+
+### Languages
+
+* English - B2.<br/>
+I've worked as pharmaceutical translator for over 8 years. My employment history includes the following positions: 
+    + office Manager at the Department of Marketing and Foreign Affairs
+    + English tutor
+    + pharmaceutical translator
+    + translation reviewer/proofreader at a medical translation agency

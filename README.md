@@ -1,1 +1,1 @@
-https://forest-fae.github.io/rsschool-cv/cv
+https://forest-fae.github.io/rsschool-cv/

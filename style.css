@@ -48,12 +48,13 @@ h1 {
     flex-flow: column wrap;
     align-items:flex-start;
     justify-content:space-evenly;
+    align-self: stretch;
     min-width: 320px;
     padding: 25px;
     margin: 0;
     background-color: #C5D8C4;
     color: #304145;
-    height: 100%;
+    width: 40%;
 }
 
 
@@ -71,10 +72,11 @@ header {
 .column_two {
     display: flex;
     flex-flow: column nowrap;
-    align-items: ;
+   align-self: stretch;
     justify-content: flex-start;
     padding: 25px;
     color: #304145;
+    width: 70%;
 }
 
 h3 {
@@ -92,6 +94,7 @@ pre code {
     background-color: #E0ECDE;
     display: block;
     text-align: left;
+    
   }
 
 
@@ -125,3 +128,15 @@ pre code {
 #footer_rsschool_icon {
 padding: 5px;
 }
+
+@media (max-width: 768px) {
+    .wrap {
+      width: 100%;
+      display: flex;
+      flex-flow: column wrap;
+    }
+
+    pre  {
+        white-space: normal;
+    }
+  }

@@ -1,8 +1,127 @@
-head {
-    background-color: #363a57;
-color: #CC9E08;
-}
+
+
 body {
-    background-color: #b8b4be;
-    color: #363a57;
+    background-color: white;
+
+    font-family: "Roboto";
+    display: flex; 
+    flex-direction:column; 
+    justify-content:center;
+    min-height:100vh;
+    max-width: 1100px;
+    margin: auto;
+    box-shadow: 0 10px 18px 0 rgba(0, 0, 0, 0.5);
+    font
+
+
+}
+
+a {
+    color: #304145;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#329D9C; 
+    text-decoration:underline; 
+    cursor:pointer;  
+}
+
+h1 {
+    line-height: 40px;
+}
+
+.wrap {
+    display: flex;
+    flex-flow: row nowrap;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    align-items:flex-start;
+    flex-basis: 100%;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.column_one {
+
+    display: flex;
+    flex-flow: column wrap;
+    align-items:flex-start;
+    justify-content:space-evenly;
+    min-width: 320px;
+    padding: 25px;
+    margin: 0;
+    background-color: #C5D8C4;
+    color: #304145;
+    height: 100%;
+}
+
+
+header {
+    color: #304145; 
+    text-align: center;
+}
+
+.header_img {
+    border: 10px solid #E5E6E1;
+    border-radius: 50%;  
+}
+
+
+.column_two {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: ;
+    justify-content: flex-start;
+    padding: 25px;
+    color: #304145;
+}
+
+h3 {
+    color: #2C6975;
+    background-color: #E5E6E1;
+    border-radius: 10px;;
+    padding: 10px 20px;
+}
+
+b {
+    color: #4A707A;
+}
+
+pre code {
+    background-color: #E0ECDE;
+    display: block;
+    text-align: left;
+  }
+
+
+.footer_content {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #E5E6E1;
+    padding: 10px 25px;
+    color: #304145;
+    
+}
+
+#footer_github {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+#github_icon {
+    padding: 5px;
+}
+
+#footer_rsschool_link {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+#footer_rsschool_icon {
+padding: 5px;
 }
